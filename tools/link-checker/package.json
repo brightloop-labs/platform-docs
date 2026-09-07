@@ -1,0 +1,10 @@
+{
+  "name": "platform-docs-link-checker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Internal script to check for dead links across the docs set.",
+  "dependencies": {
+    "lodash": "4.17.4",
+    "axios": "0.18.0"
+  }
+}
