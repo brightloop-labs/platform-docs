@@ -1,6 +1,6 @@
 # Runbook: Running an incident review
 
-_Last reviewed: 2026-11-22_
+_Last reviewed: 2026-11-26_
 
 ## When to use this
 Use this runbook when the situation in the title applies to a service owned by this repository.
